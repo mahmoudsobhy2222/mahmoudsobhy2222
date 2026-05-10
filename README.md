@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 
 # Hi 👋, I'm Mahmoud Sobhy
-### Front-End Developer | React Developer 🚀
+### Front-End Developer | vue Developer 🚀
 
 <p>
 Passionate Front-End Developer focused on building responsive, modern, and user-friendly web applications.
