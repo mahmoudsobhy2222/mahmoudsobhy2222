@@ -51,7 +51,7 @@ Passionate Front-End Developer focused on building responsive, modern, and user-
 
 # 👨‍💻 About Me
 
-- 🚀 Front-End Developer specialized in React.js
+- 🚀 Front-End Developer specialized in vue .js
 - 🎨 Passionate about UI/UX & Clean Design
 - 📱 Building responsive and modern websites
 - 🌱 Currently learning **Next.js & TypeScript**
