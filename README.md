@@ -5,8 +5,10 @@
 # Hi 👋, I'm Mahmoud Sobhy
 ### Front-End Developer | vue Developer 🚀
 
+
 <p>
-Passionate Front-End Developer focused on building responsive, modern, and user-friendly web applications.
+Front-End Developer dedicated to building professional, responsive, and visually appealing web applications with optimized performance and clean architecture. Actively studying Back-End Development to expand into Full-Stack Development.
+
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
