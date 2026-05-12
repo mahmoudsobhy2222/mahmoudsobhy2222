@@ -56,7 +56,7 @@ Front-End Developer dedicated to building professional, responsive, and visually
 - 🚀 Front-End Developer specialized in vue .js
 - 🎨 Passionate about UI/UX & Clean Design
 - 📱 Building responsive and modern websites
-- 🌱 Currently learning **Next.js & TypeScript**
+- 🌱 Currently learning **php & laravel **
 - ⚡ Love solving problems and creating interactive experiences
 
 ---
